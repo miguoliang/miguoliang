@@ -1,5 +1,1 @@
-Roadmap:
-- Networks security
-- zcu102 /arduino
-- Astro
-- WebGPU
+Focus on AI
