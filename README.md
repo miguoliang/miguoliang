@@ -1,7 +1,7 @@
 Hey! 👋 I'm Mi Guoliang.
 ---
 
-I'm a full-stack software programmer. I can write applications for AWS Cloud, Windows, MacOS, iOS, and Linux platforms. I am also a software architect in a company that provides tools for code quality and vulnerable analysis. I spend much time optimizing the development process to reduce the time cost for my team at work. I recently became enthusiastic about Rust because of its memory safety and high performance. Additionally, AIGC is another realm I love and practice a lot.
+As a System Architect and Tech Leader in Securities Based Lending (SBL) software systems, I'm exploring best practices for AI-driven R&D processes and management evolution. I believe AI amplifies human potential rather than replacing it—transforming our role from executors to AI collaboration experts who master the art of working with intelligent systems.
 
 <img src="https://komarev.com/ghpvc/?username=miguoliang" alt="page views" />
 
